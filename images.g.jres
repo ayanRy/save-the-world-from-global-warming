@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAA//8PAAAAAPBERPQAAA8AT///DwDw/g9PDwAAAO/e/U//////797dT0T0iPjv3d1PRPT//+8d3U9E9AAA743dT0T0///v3/1PRPSI+PDwD///////AAAATw8AAAAAAABP/////wAAAPBERBTxAAAAAP//H/EAAAAAAADw/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Dave"
+    },
+    "image2": {
+        "data": "hwQQABAAAACZmZmZmZmZmZmZmZmZmZmZmZmZmdnu7v6ZmZmZ3ZmZmZmZmZmdmZmZ2d0R0Z2ZmZnd3y0iIo+I+N3dLSIij5mZHd0tIiKFmZkZ3SkiIo+ZmZmZmSIij4j4mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "evil man"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
